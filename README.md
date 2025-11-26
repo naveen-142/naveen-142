@@ -7,7 +7,7 @@ I enjoy **solving real-world problems** with AI—from detecting fraud and analy
 
 ## 🎯 What I’m Working On
 - 🧠 **Machine Learning & Predictive Modeling:** Regression, Classification, Clustering, Feature Engineering  
-- 🖼️ **Deep Learning:** Image Classification, Object Detection using CNNs and TensorFlow/Keras  
+- 🖼️ **Deep Learning:** Image Classification, Object Detection using YOLO, CNNs and TensorFlow/Keras  
 - ✍️ **NLP & Text Analytics:** Sentiment Analysis, OCR, PDF/Text Extraction, Text Summarization  
 - 📊 **Data Analytics & Visualization:** EDA, Hypothesis Testing, Dashboarding with Power BI, Excel, Plotly  
 - 🛠️ **Full-Stack Development:** Flask + React JS for interactive, deployable AI solutions  
